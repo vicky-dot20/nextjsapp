@@ -6,7 +6,7 @@ const ParentComponent = () => {
 
   return (
     <div>
-      <h1>Parent Component</h1>
+      <h1>Pat</h1>
       <ChildComponent data={data} />
     </div>
   );
