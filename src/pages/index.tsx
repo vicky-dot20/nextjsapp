@@ -28,7 +28,7 @@ const ParentComponent = () => {
       <ChildComponent data={data} />
       <DrawerDemo/> */}
 
-{/* <Todos/> */}
+<Todos/> 
 <TodoFetcher />
 
 <DataComponent/>
